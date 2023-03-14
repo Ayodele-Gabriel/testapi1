@@ -11,7 +11,7 @@ class HomePage extends StatefulWidget {
 }
 
 class _HomePageState extends State<HomePage> {
-   List<Post>? posts;
+  List<Post>? posts;
   var isLoaded = false;
 
   @override
